@@ -1,0 +1,7 @@
+- Support for inventories on dog & player. This allows people to pick up, drop, and wear or remove items.
+- Support for seasons, weather, temperatures.
+- Encounter generation - run into other people, other people with dogs, stray animals, cats, wild animals (pigeons, squirrels)
+- More rooms.
+- More robust room descriptions.
+- Goals - Quests and sidequests.
+  
